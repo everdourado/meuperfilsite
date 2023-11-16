@@ -328,10 +328,11 @@ footer .line-footer p a{
         flex-direction: column-reverse;
     }
 
-    /* cabeçalho */
+    /* cabeçalho 
     .menu-desktop, .btn-contato{
         display: none;
     }
+    */
 
 
 /* topo do site */
